@@ -31,7 +31,7 @@ import time
 #sat-frestea-9-18 alfa freshtea
 #idm-coke-ayo-9-06 indomaret cocacola
 
-uri = 'idm-coke-ayo-9-06' #alfamart cocacola
+uri = 'sat-coke-zero-924' #alfamart cocacola
 thread = 2
 empas = [
 "rosene.kauppi@niatniat.site|Admin123", 
